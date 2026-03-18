@@ -3,10 +3,12 @@ __pycache__/
 *.pyo
 *.pyd
 .env
+extension/config.js
 .venv/
 venv/
 
 server/whisper.cpp/build/
+server/whisper.cpp/
 server/whisper.cpp/*.o
 server/whisper.cpp/*.a
 

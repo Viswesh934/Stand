@@ -97,6 +97,7 @@ Optional check:
 
 ```
 cd whisper.cpp
+cd whisper.cpp
 ./build/bin/whisper-cli -m models/ggml-base.en.bin -f samples/jfk.wav
 ```
 
